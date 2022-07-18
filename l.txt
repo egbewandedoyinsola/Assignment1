@@ -1,0 +1,2 @@
+The sign is: "The stick is blue."
+The counter-sign is: "The dog barks at midnight."

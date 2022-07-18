@@ -1,0 +1,3 @@
+The encrypted version of this file is going to be corrupted by deleting a 
+character'Evœ³;œmEdle of a line. There may be quite a bit of corruption in 
+the output file!

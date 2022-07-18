@@ -1,0 +1,2 @@
+The encrypted version of this file is going to be corrupted by deleting a 
+haracter at the end of a line.
