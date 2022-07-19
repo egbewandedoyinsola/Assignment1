@@ -1,7 +1,7 @@
 # Assignment1
 #### Summaryy
 This program repeatedly asks a bunch of commands if it encounters the word decrypt, it decrypts the given encrypted file given by user. <br>
-The program only know how to decrypt but it does not know how to encrypt. 
+The program only knows how to decrypt but it does not know how to encrypt. 
 <br>
 My code can be found in a folder called 'a01' in the 'src' folder.
 <br>
